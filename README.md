@@ -69,11 +69,11 @@ I'm a web developer and Systems Engineering student at Francisco de Paula Santan
 <div align="left">
 
 <a href="https://github.com/BryanAG-kcts">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BryanAG-kcts&theme=vue-dark&rank_icon=github&text_bold=false&custom_title=My%20GitHub%20Stats" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BryanAG-kcts&theme=vue-dark&rank_icon=github&text_bold=false&custom_title=My%20GitHub%20Stats&show_icons=true&hide_border=true" />
 </a>
 
 <a href="https://github.com/BryanAG-kcts">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanAG-kcts&layout=compact&custom_title=My%20favorite%20languages&theme=vue-dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanAG-kcts&layout=compact&custom_title=My%20favorite%20languages&theme=vue-dark&hide_border=true" />
 </a>
 
 </div>
