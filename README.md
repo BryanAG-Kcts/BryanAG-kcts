@@ -87,10 +87,10 @@ I'm a web developer and Systems Engineering student at Francisco de Paula Santan
   <a href="mailto:bryanalvarezg.kcts@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=bryanalvarezg.kcts@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-  <a href="t.me/BryanAG_kcts" target="_blank">
+  <a href="https://t.me/BryanAG_kcts" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=@BryanAG_kcts&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="telegram logo"  />
   </a>
-  <a href="discordapp.com/users/1074340959426453616" target="_blank">
+  <a href="https://discordapp.com/users/1074340959426453616" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=kactuswow&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
   </a>
 </div>
