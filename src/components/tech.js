@@ -29,7 +29,7 @@ export function renderTechMarkdown() {
   return techStack
     .map(
       (tech) =>
-        `<img src="https://svgl.app/library/${tech}.svg" height="40" width="40" alt="${tech}" style="margin-right: 12px;" />`
+        `<img width="6" /><img src="https://svgl.app/library/${tech}.svg" height="40" width="40" alt="${tech}" /><img width="6" />`
     )
     .join('\n')
 }
