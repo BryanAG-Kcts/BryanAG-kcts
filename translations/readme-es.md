@@ -44,4 +44,4 @@ Soy desarrollador **fullstack** con cerca de un año de experiencia y estudiante
 <img width="6" /><img src="https://svgl.app/library/zod.svg" height="40" width="40" alt="zod" /><img width="6" /></p>
 <br>
 
-Puedes encontrar más traducciones en la carpeta [traducciones 📂](/src/translations)
+Puedes encontrar más traducciones en la carpeta [traducciones 📂](/translations)

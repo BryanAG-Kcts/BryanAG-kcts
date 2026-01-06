@@ -19,4 +19,4 @@ Soy desarrollador **fullstack** con cerca de un año de experiencia y estudiante
 <p align="center">{{TECH}}</p>
 <br>
 
-Puedes encontrar más traducciones en la carpeta [traducciones 📂](/src/translations)
+Puedes encontrar más traducciones en la carpeta [traducciones 📂](/translations)

@@ -44,4 +44,4 @@ I'm a **full-stack** developer with about a year of experience and a **Systems E
 <img width="6" /><img src="https://svgl.app/library/zod.svg" height="40" width="40" alt="zod" /><img width="6" /></p>
 <br>
 
-You can find more translations in the [translations 📂](/src/translations) folder
+You can find more translations in the [translations 📂](/translations) folder

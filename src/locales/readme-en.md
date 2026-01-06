@@ -19,4 +19,4 @@ I'm a **full-stack** developer with about a year of experience and a **Systems E
 <p align="center">{{TECH}}</p>
 <br>
 
-You can find more translations in the [translations 📂](/src/translations) folder
+You can find more translations in the [translations 📂](/translations) folder
