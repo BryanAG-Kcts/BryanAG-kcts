@@ -3,9 +3,9 @@
     <h3 align="center">Hi 👋! I'm Bryan Álvarez 🌵</h3>
 </p>
 
-<p align="center"><a href="https://www.linkedin.com/in/bryanag-kcts/" target="_blank"><img src="https://svgl.app/library/linkedin.svg" height="30" alt="linkedin" style="margin-right: 12px;" /></a>
-<a href="mailto:bryanalvarezg.kcts@gmail.com" target="_blank"><img src="https://svgl.app/library/gmail.svg" height="30" alt="gmail" style="margin-right: 12px;" /></a>
-<a href="https://t.me/BryanAG_kcts"" target="_blank"><img src="https://svgl.app/library/telegram.svg" height="30" alt="telegram" style="margin-right: 12px;" /></a></p>
+<p align="center"><img width="6" /><a href="https://www.linkedin.com/in/bryanag-kcts/" target="_blank"><img src="https://svgl.app/library/linkedin.svg" height="30" alt="linkedin" /></a><img width="6" />
+<img width="6" /><a href="mailto:bryanalvarezg.kcts@gmail.com" target="_blank"><img src="https://svgl.app/library/gmail.svg" height="30" alt="gmail" /></a><img width="6" />
+<img width="6" /><a href="https://t.me/BryanAG_kcts"" target="_blank"><img src="https://svgl.app/library/telegram.svg" height="30" alt="telegram" /></a><img width="6" /></p>
 
 ## About me 🤙🏽
 

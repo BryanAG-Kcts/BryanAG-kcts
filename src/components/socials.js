@@ -17,7 +17,7 @@ export function renderSocialsMarkdown() {
   return socials
     .map(
       (social) =>
-        `<a href="${social.url}" target="_blank"><img src="https://svgl.app/library/${social.icon}.svg" height="30" alt="${social.icon}" style="margin-right: 12px;" /></a>`
+        `<img width="6" /><a href="${social.url}" target="_blank"><img src="https://svgl.app/library/${social.icon}.svg" height="30" alt="${social.icon}" /></a><img width="6" />`
     )
     .join('\n')
 }
