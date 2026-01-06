@@ -1,22 +1,22 @@
 <center>
     <img width="200" src="/assets/dark-logo.svg" alt="BryanAG-kcts logo" />
-    <h3>Hi 👋! I'm Bryan Álvarez 🌵</h3>
+    <h3>¡Hola 👋! Soy Bryan Álvarez 🌵</h3>
 </center>
 
 <center><a href="https://www.linkedin.com/in/bryanag-kcts/" target="_blank"><img src="https://svgl.app/library/linkedin.svg" height="30" alt="linkedin" style="margin-right: 12px;" /></a>
 <a href="mailto:bryanalvarezg.kcts@gmail.com" target="_blank"><img src="https://svgl.app/library/gmail.svg" height="30" alt="gmail" style="margin-right: 12px;" /></a>
 <a href="https://t.me/BryanAG_kcts"" target="_blank"><img src="https://svgl.app/library/telegram.svg" height="30" alt="telegram" style="margin-right: 12px;" /></a></center>
 
-## About me 🤙🏽
+## Sobre mí 🤙🏽
 
-I'm a **full-stack** developer with about a year of experience and a **Systems Engineering** student at the Francisco de Paula Santander University, Ocaña campus, nearing graduation.
+Soy desarrollador **fullstack** con cerca de un año de experiencia y estudiante de **Ingeniería de Sistemas** en la Universidad Francisco de Paula Santander, seccional Ocaña, próximo a finalizar mi carrera.
 
-- 🌍 I live in **Colombia**
-- 🔥 You can visit **[my web portfolio here](https://portfolio-kcts.vercel.app/en)**
-- 🧠 I'm currently learning **PHP**
-- 💬 I'm passionate about programming, engineering, and minimalist design
+- 🌍 Resido en **Colombia**
+- 🔥 Puedes visitar **[mi portafolio web aquí](https://portfolio-kcts.vercel.app/es)**
+- 🧠 Actualmente me encuentro aprendiendo **PHP**
+- 💬 Me apasionan la programación, la ingeniería y el diseño minimalista
 
-## Technology Stack 🧑🏾‍💻
+## Stack de Tecnologías 🧑🏾‍💻
 
 <center><img src="https://svgl.app/library/astro-icon-dark.svg" height="40" width="40" alt="astro-icon-dark" style="margin-right: 12px;" />
 <img src="https://svgl.app/library/css.svg" height="40" width="40" alt="css" style="margin-right: 12px;" />
@@ -44,4 +44,4 @@ I'm a **full-stack** developer with about a year of experience and a **Systems E
 <img src="https://svgl.app/library/zod.svg" height="40" width="40" alt="zod" style="margin-right: 12px;" /></center>
 <br>
 
-You can find more translations in the [translations 📂](/src/translations) folder
+Puedes encontrar más traducciones en la carpeta [traducciones 📂](/src/translations)
