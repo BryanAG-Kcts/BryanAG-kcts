@@ -1,11 +1,11 @@
-<center>
+<p align="center">
     <img width="200" src="/assets/dark-logo.svg" alt="BryanAG-kcts logo" />
-    <h3>¡Hola 👋! Soy Bryan Álvarez 🌵</h3>
-</center>
+    <h3 align="center">¡Hola 👋! Soy Bryan Álvarez 🌵</h3>
+</p>
 
-<center><a href="https://www.linkedin.com/in/bryanag-kcts/" target="_blank"><img src="https://svgl.app/library/linkedin.svg" height="30" alt="linkedin" style="margin-right: 12px;" /></a>
+<p align="center"><a href="https://www.linkedin.com/in/bryanag-kcts/" target="_blank"><img src="https://svgl.app/library/linkedin.svg" height="30" alt="linkedin" style="margin-right: 12px;" /></a>
 <a href="mailto:bryanalvarezg.kcts@gmail.com" target="_blank"><img src="https://svgl.app/library/gmail.svg" height="30" alt="gmail" style="margin-right: 12px;" /></a>
-<a href="https://t.me/BryanAG_kcts"" target="_blank"><img src="https://svgl.app/library/telegram.svg" height="30" alt="telegram" style="margin-right: 12px;" /></a></center>
+<a href="https://t.me/BryanAG_kcts"" target="_blank"><img src="https://svgl.app/library/telegram.svg" height="30" alt="telegram" style="margin-right: 12px;" /></a></p>
 
 ## Sobre mí 🤙🏽
 
@@ -18,7 +18,7 @@ Soy desarrollador **fullstack** con cerca de un año de experiencia y estudiante
 
 ## Stack de Tecnologías 🧑🏾‍💻
 
-<center><img src="https://svgl.app/library/astro-icon-dark.svg" height="40" width="40" alt="astro-icon-dark" style="margin-right: 12px;" />
+<p align="center"><img src="https://svgl.app/library/astro-icon-dark.svg" height="40" width="40" alt="astro-icon-dark" style="margin-right: 12px;" />
 <img src="https://svgl.app/library/css.svg" height="40" width="40" alt="css" style="margin-right: 12px;" />
 <img src="https://svgl.app/library/expo.svg" height="40" width="40" alt="expo" style="margin-right: 12px;" />
 <img src="https://svgl.app/library/html5.svg" height="40" width="40" alt="html5" style="margin-right: 12px;" />
@@ -41,7 +41,7 @@ Soy desarrollador **fullstack** con cerca de un año de experiencia y estudiante
 <img src="https://svgl.app/library/github_light.svg" height="40" width="40" alt="github_light" style="margin-right: 12px;" />
 <img src="https://svgl.app/library/vercel.svg" height="40" width="40" alt="vercel" style="margin-right: 12px;" />
 <img src="https://svgl.app/library/zen-browser-dark.svg" height="40" width="40" alt="zen-browser-dark" style="margin-right: 12px;" />
-<img src="https://svgl.app/library/zod.svg" height="40" width="40" alt="zod" style="margin-right: 12px;" /></center>
+<img src="https://svgl.app/library/zod.svg" height="40" width="40" alt="zod" style="margin-right: 12px;" /></p>
 <br>
 
 Puedes encontrar más traducciones en la carpeta [traducciones 📂](/src/translations)

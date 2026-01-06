@@ -1,9 +1,9 @@
-<center>
+<p align="center">
     <img width="200" src="/assets/dark-logo.svg" alt="BryanAG-kcts logo" />
-    <h3>¡Hola 👋! Soy Bryan Álvarez 🌵</h3>
-</center>
+    <h3 align="center">¡Hola 👋! Soy Bryan Álvarez 🌵</h3>
+</p>
 
-<center>{{SOCIALS}}</center>
+<p align="center">{{SOCIALS}}</p>
 
 ## Sobre mí 🤙🏽
 
@@ -16,7 +16,7 @@ Soy desarrollador **fullstack** con cerca de un año de experiencia y estudiante
 
 ## Stack de Tecnologías 🧑🏾‍💻
 
-<center>{{TECH}}</center>
+<p align="center">{{TECH}}</p>
 <br>
 
 Puedes encontrar más traducciones en la carpeta [traducciones 📂](/src/translations)
